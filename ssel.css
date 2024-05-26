@@ -1,0 +1,17 @@
+.student_field_entry {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.student_field_prompt {
+    font-size: large;
+}
+
+#student_prompt {
+    color: white;
+    font-weight: bold;
+}
+
+#student_info {
+    color: white;
+}

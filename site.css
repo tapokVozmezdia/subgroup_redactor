@@ -1,0 +1,108 @@
+body {
+    background-color: white;
+}
+
+#header {
+    height: 144px;
+    border-radius: 16px;
+}
+
+#student_selector {
+    float: left;
+
+    margin-top: 1.5%;
+    margin-left: 1%;
+    margin-bottom: 1.5%;
+
+    padding-top: 16px;
+
+    height: 550px;
+    width: 14%;
+
+    overflow: scroll;
+
+    border-radius: 16px;
+}
+
+#mid {
+    float: left;
+
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    margin-left: 1%;
+    margin-right: 1%;
+
+    padding-top: 16px;
+
+    height: 550px;
+    width: 68%;
+    max-width: 68%;
+
+    border-radius: 16px;
+}
+
+#student_controls {
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+
+    padding-top: 16px;
+
+    height: 550px;
+    width: 14%;
+
+    overflow: scroll;
+
+    border-radius: 16px;
+}
+
+table {
+    overflow:scroll;
+}
+
+#footer {
+    height: 144px;
+    border-radius: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    width: 100%;
+    display: block;
+}
+
+.my_button {
+    width: 100%;
+    margin-bottom: 12px;
+
+    text-align: center;
+}
+
+.my_button:hover {
+    transition-duration: 200ms;
+    cursor: pointer;
+
+    background-color: #17a2b7;
+    text-decoration: none;
+    color: white;
+}
+
+.button_label {
+    width: 100%;
+    margin-bottom: 12px;
+
+    text-align: center;
+}
+
+.button_label:hover {
+    cursor:default;
+}
+
+.prompt {
+    text-align: center;
+    font-size: larger;
+}
+
+.head_foot {
+    background-color: #333333;
+}
